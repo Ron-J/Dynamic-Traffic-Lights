@@ -6,7 +6,7 @@ Components used:
 •	Computer for processing real time pictures  
 •	Arduino board for transmitting Computer output to Traffic Lights  
 •	Webcam  
-Modules Used:
+Modules Used:  
 •	OpenCV – For image processing  
 •	numpy – For image processing  
 •	time -For periodic traffic lights control  
