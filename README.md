@@ -1,6 +1,7 @@
 # Dynamic-Traffic-Lights
 Smart traffic light system  
 Project using OpenCV, YOLOV4 / YOLOV5 ML Model  
+Using toy cars for prototype
 
 Components used:  
 •	Computer for processing real time pictures  
